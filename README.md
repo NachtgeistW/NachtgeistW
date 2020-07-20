@@ -22,10 +22,9 @@
 - 🔭 Currently working on [OI Wiki](https://github.com/OI-wiki/OI-wiki/) format
 
 ### Languages and Tools 💻
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&logoColor=white&link=https://github.com/NachtgeistW)](https://github.com/NachtgeistW)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code&link=https://code.visualstudio.com/)
+![C++](https://img.shields.io/badge/-C/C++-%2300599C?style=flat&logo=C&logoColor=ffffff) ![C#](https://img.shields.io/badge/-C%23-%23239120?style=flat&logo=C-Sharp) ![Unity](https://img.shields.io/badge/-Unity-%23000000?style=flat&logo=Unity) ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=ffffff)
 
-[![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-%235C2D91?style=flat&logo=visual-studio&link=https://code.visualstudio.com/) ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code&link=https://code.visualstudio.com/) ![Android Studio](https://img.shields.io/badge/-Android_Studio-%233DDC84?style=flat&logo=android-studio&logoColor=ffffff)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/NachtgeistW) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)
 
