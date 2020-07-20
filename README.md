@@ -1,4 +1,14 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=NachtgeistW&show_icons=true"/>
+
+### Hello, I'm NachtgeistW.
+
+I'm NachtgeistW, a senior from China Mainland.
+
+- ✨ C++ and C# lover
+- 🌱 Recently learning algorithm and Unity3D again
+- 🎶 MUG player, Rayark and BEMANI fan
+
+**[My blog: Berksey](https://nachtgeistw.github.io/Berksey/)**
 
 <!--
 **NachtgeistW/NachtgeistW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
