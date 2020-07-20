@@ -10,6 +10,10 @@ I'm NachtgeistW, a senior from China Mainland.
 
 **[My blog: Berksey](https://nachtgeistw.github.io/Berksey/)**
 
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **NachtgeistW/NachtgeistW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
