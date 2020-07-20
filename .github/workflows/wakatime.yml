@@ -6,7 +6,7 @@ on:
       - master
   schedule:
     # Runs at 12am UTC
-    - cron: '57 0 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
