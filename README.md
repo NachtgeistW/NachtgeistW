@@ -1,14 +1,16 @@
-## Hello, I'm NachtgeistW.
+<h2 align="center">👋 Hello! I'm NachtgeistW.</h2>
+<p align="center">
+  <a href="https://nachtgeistw.github.io/Berksey/">🏕 Blog</a> •
+  <a href="https://twitter.com/NachtgeistW">Twitter</a>
+</p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=NachtgeistW&show_icons=true"/>
 
-A senior from China Mainland.
-
+- 🏡 A senior from China Mainland, currently at home
 - ✨ C++ and C# lover
 - 🎶 MUG player, Rayark and BEMANI fan
 - 🌱 Recently learning algorithm and Unity3D again
 - 🔭 Currently working on [OI Wiki](https://github.com/OI-wiki/OI-wiki/) format
-- 🏕 [My blog: Berksey](https://nachtgeistw.github.io/Berksey/)
 
 ### Languages and Tools 💻
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&logoColor=white&link=https://github.com/NachtgeistW)](https://github.com/NachtgeistW)
