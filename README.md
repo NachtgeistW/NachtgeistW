@@ -1,8 +1,14 @@
 <h2 align="center">👋 Hello! I'm NachtgeistW.</h2>
 <p align="center">
-  <a href="https://nachtgeistw.github.io/Berksey/">Blog</a> •
-  <a href="https://twitter.com/NachtgeistW">Twitter</a> •
-  <a href="https://weibo.com/7312904644/profile?rightmod=1&wvr=6&mod=personnumber&is_new=1">Weibo</a>
+  <a href="https://nachtgeistw.github.io/Berksey/">
+    <img alight="center" src="https://img.shields.io/website?color=black&style=flat&up_message=Berksey&url=https://nachtgeistw.github.io/Berksey/"/>
+  </a>
+  <a href="https://twitter.com/Nightwheel_C">
+    <img alight="center" src="https://img.shields.io/badge/-@Nightwheel_C-%231DA1F2?style=flat&logo=twitter&logoColor=ffffff"/>
+  </a>
+  <a href="https%3A%2F%2Fweibo.com%2F7312904644%2Fprofile%3Frightmod%3D1%26wvr%3D6%26mod%3Dpersonnumber%26is_new%3D1">
+    <img alight="center" src="https://img.shields.io/badge/-%E5%A4%9C%E8%BD%AE_Nightwheel-%23E6162D?style=flat&logo=sina-weibo"/>
+  </a>
 </p>
 
 ### About Me
@@ -17,8 +23,11 @@
 
 ### Languages and Tools 💻
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&logoColor=white&link=https://github.com/NachtgeistW)](https://github.com/NachtgeistW)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code&link=https://code.visualstudio.com/)
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/NachtgeistW)](https://github.com/NachtgeistW) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/NachtgeistW)
+[![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/NachtgeistW) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)
 
 ---
 📊 **Weekly development breakdown**
