@@ -5,9 +5,10 @@
   <a href="https://weibo.com/7312904644/profile?rightmod=1&wvr=6&mod=personnumber&is_new=1">Weibo</a>
 </p>
 
+### About Me
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=NachtgeistW&show_icons=true"/>
 
-### About Me
 - 🏡 A senior from China Mainland, currently at home
 - ✨ C++ and C# lover
 - 🎶 MUG player, Rayark and BEMANI fan
