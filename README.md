@@ -1,11 +1,13 @@
 <h2 align="center">👋 Hello! I'm NachtgeistW.</h2>
 <p align="center">
-  <a href="https://nachtgeistw.github.io/Berksey/">🏕 Blog</a> •
-  <a href="https://twitter.com/NachtgeistW">Twitter</a>
+  <a href="https://nachtgeistw.github.io/Berksey/">Blog</a> •
+  <a href="https://twitter.com/NachtgeistW">Twitter</a> •
+  <a href="https://weibo.com/7312904644/profile?rightmod=1&wvr=6&mod=personnumber&is_new=1">Weibo</a>
 </p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=NachtgeistW&show_icons=true"/>
 
+### About Me
 - 🏡 A senior from China Mainland, currently at home
 - ✨ C++ and C# lover
 - 🎶 MUG player, Rayark and BEMANI fan
