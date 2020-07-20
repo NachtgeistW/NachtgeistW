@@ -5,12 +5,14 @@
 I'm NachtgeistW, a senior from China Mainland.
 
 - ✨ C++ and C# lover
-- 🌱 Recently learning algorithm and Unity3D again
 - 🎶 MUG player, Rayark and BEMANI fan
+- 🌱 Recently learning algorithm and Unity3D again
+- 🔭 Currently working on [OI Wiki](https://github.com/OI-wiki/OI-wiki/) format
 
 **[My blog: Berksey](https://nachtgeistw.github.io/Berksey/)**
 
 ---
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
