@@ -9,6 +9,9 @@
   <a href="https://weibo.com/7312904644/profile?rightmod=1&wvr=6&mod=personnumber&is_new=1">
     <img alight="center" src="https://img.shields.io/badge/-%E5%A4%9C%E8%BD%AE_Nightwheel-%23E6162D?style=flat&logo=sina-weibo"/>
   </a>
+  <a href="https://t.me/Nightwheel">
+    <img alight="center" src="https://img.shields.io/badge/-%E5%A4%9C%E8%BD%AE-gray?style=flat&logo=telegram"/>
+  </a>
 </p>
 
 ### About Me
