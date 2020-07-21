@@ -30,14 +30,14 @@
   </a>
 </p>
  -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=NachtgeistW&show_icons=true&hide_border=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=NachtgeistW&show_icons=true&hide_border=true&theme=tokyonight"/>
 
 ### About Me
 
-- 🏡 A senior student from China Mainland
-- ✨ C++ and C# lover
+- 🏡 A senior undergraduate from China Mainland
+- ✨ **C++ and C#** lover
 - 🎶 MUG player, Rayark and BEMANI fan
-- 🌱 Recently learning algorithm and Unity3D again
+- 🌱 Recently learning **algorithm and Unity3D** again
 - 🔭 Currently working on [**OI Wiki**](https://github.com/OI-wiki/OI-wiki/) format
 
 ### Languages, Tools and Platforms 💻
