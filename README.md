@@ -6,7 +6,7 @@
   <a href="https://twitter.com/Nightwheel_C">
     <img alight="center" src="https://img.shields.io/badge/-@Nightwheel_C-%231DA1F2?style=flat&logo=twitter&logoColor=ffffff"/>
   </a>
-  <a href="https%3A%2F%2Fweibo.com%2F7312904644%2Fprofile%3Frightmod%3D1%26wvr%3D6%26mod%3Dpersonnumber%26is_new%3D1">
+  <a href="https://weibo.com/7312904644/profile?rightmod=1&wvr=6&mod=personnumber&is_new=1">
     <img alight="center" src="https://img.shields.io/badge/-%E5%A4%9C%E8%BD%AE_Nightwheel-%23E6162D?style=flat&logo=sina-weibo"/>
   </a>
 </p>
