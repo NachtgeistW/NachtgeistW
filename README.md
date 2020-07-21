@@ -31,8 +31,6 @@
 </p>
  -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=NachtgeistW&show_icons=true"/>
-
 ### About Me
 
 - 🏡 A senior student from China Mainland
@@ -40,6 +38,8 @@
 - 🎶 MUG player, Rayark and BEMANI fan
 - 🌱 Recently learning algorithm and Unity3D again
 - 🔭 Currently working on [**OI Wiki**](https://github.com/OI-wiki/OI-wiki/) format
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=NachtgeistW&show_icons=true"/>
 
 ### Languages, Tools and Platforms 💻
 ![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff) ![C#](https://img.shields.io/badge/-C%23-%23239120?style=flat&logo=C-Sharp) ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=3776AB) [![Kotlin](https://img.shields.io/badge/-Kotlin-blueviolet?style=flat&logo=Kotlin&logoColor=ff722c)](https://kotlinlang.org/)
