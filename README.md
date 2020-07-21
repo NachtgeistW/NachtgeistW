@@ -34,13 +34,13 @@
 
 ### About Me
 
-- 🏡 A senior undergraduate from China Mainland
-- ✨ **C++ and C#** lover
-- 🎶 MUG player, Rayark and BEMANI fan
-- 🌱 Recently learning **algorithm and Unity3D** again
-- 🔭 Currently working on [**OI Wiki**](https://github.com/OI-wiki/OI-wiki/) format
+- A senior undergraduate from China Mainland
+- **C++ and C#** lover
+- MUG player, Rayark and BEMANI fan
+- Recently learning **algorithm and Unity3D** again
+- Currently working on [**OI Wiki**](https://github.com/OI-wiki/OI-wiki/) format
 
-### Languages, Tools and Platforms 💻
+### Languages, Tools and Platforms
 ![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff) ![C#](https://img.shields.io/badge/-C%23-%23239120?style=flat&logo=C-Sharp) ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=3776AB) [![Kotlin](https://img.shields.io/badge/-Kotlin-blueviolet?style=flat&logo=Kotlin&logoColor=ff722c)](https://kotlinlang.org/)
 
 [![Visual Studio](https://img.shields.io/badge/-Visual_Studio-%235C2D91?style=flat&logo=visual-studio)](https://visualstudio.microsoft.com/vs/) [![VS Code](https://img.shields.io/badge/-VS_Code-%23007ACC?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/) [![Unity](https://img.shields.io/badge/-Unity-black?style=flat&logo=Unity)](https://unity.com/) [![Android Studio](https://img.shields.io/badge/-Android_Studio-%233DDC84?style=flat&logo=android-studio&logoColor=ffffff)](https://developer.android.com/studio)
