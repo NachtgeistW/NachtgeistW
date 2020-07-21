@@ -18,9 +18,9 @@
   </a>
 </p>
 
-### About Me
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=NachtgeistW&show_icons=true"/>
+
+### About Me
 
 - 🏡 A senior student from China Mainland
 - ✨ C++ and C# lover
