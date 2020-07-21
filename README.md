@@ -22,11 +22,11 @@
 - 🔭 Currently working on [OI Wiki](https://github.com/OI-wiki/OI-wiki/) format
 
 ### Languages and Tools 💻
-![C++](https://img.shields.io/badge/-C/C++-%2300599C?style=flat&logo=C&logoColor=ffffff) ![C#](https://img.shields.io/badge/-C%23-%23239120?style=flat&logo=C-Sharp) ![Unity](https://img.shields.io/badge/-Unity-%23000000?style=flat&logo=Unity) ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C/C++-%2300599C?style=flat&logo=C&logoColor=ffffff) ![C#](https://img.shields.io/badge/-C%23-%23239120?style=flat&logo=C-Sharp) ![Python](https://img.shields.io/badge/-Python-%23000000?style=flat&logo=python&logoColor=3776AB) [![Kotlin](https://img.shields.io/badge/-Kotlin-blueviolet?style=flat&logo=Kotlin&logoColor=ff722c)](https://kotlinlang.org/)
 
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-%235C2D91?style=flat&logo=visual-studio&link=https://code.visualstudio.com/) ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code&link=https://code.visualstudio.com/) ![Android Studio](https://img.shields.io/badge/-Android_Studio-%233DDC84?style=flat&logo=android-studio&logoColor=ffffff)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-%235C2D91?style=flat&logo=visual-studio) [![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/) [![Unity](https://img.shields.io/badge/-Unity-%23000000?style=flat&logo=Unity)](https://unity.com/) [![Android Studio](https://img.shields.io/badge/-Android_Studio-%233DDC84?style=flat&logo=android-studio&logoColor=ffffff)](https://developer.android.com/studio)
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/NachtgeistW) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) [![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github)](https://github.com/NachtgeistW)
 
 ---
 📊 **Weekly development breakdown**
@@ -40,16 +40,8 @@ Other       0 secs              ░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <!--
-**NachtgeistW/NachtgeistW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ref: 
+https://github.com/xiaoluoboding/xiaoluoboding
+https://github.com/hritik5102/hritik5102
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
