@@ -18,7 +18,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=NachtgeistW&show_icons=true"/>
 
-- 🏡 A senior from China Mainland
+- 🏡 A senior student from China Mainland
 - ✨ C++ and C# lover
 - 🎶 MUG player, Rayark and BEMANI fan
 - 🌱 Recently learning algorithm and Unity3D again
