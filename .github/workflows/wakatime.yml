@@ -5,8 +5,8 @@ on:
     branches:
       - master
   schedule:
-    # Runs at 12am UTC
-    - cron: '0 0 * * *'
+    # Runs at 12am UTC+8
+    - cron: '0 20 * * *'
 
 jobs:
   update-readme:
