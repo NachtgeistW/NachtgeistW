@@ -32,6 +32,8 @@
  -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=NachtgeistW&show_icons=true&hide_border=true"/>
 
+**upd: 我梯子跟工作机一起炸了，需要点时间修 orz**
+
 ### About Me
 
 - A senior undergraduate from China Mainland
