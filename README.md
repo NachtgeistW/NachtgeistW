@@ -50,7 +50,7 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github)](https://github.com/NachtgeistW) [![sb2](https://img.shields.io/badge/-Surface_Book_2-grey?style=flat&logo=microsoft)](https://www.microsoftstore.com.cn/surface/surface-book-2/p/mic2606)
 
 ---
-<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachtgeistW&layout=compact&exclude_repo=D.N.Develop-Special-Event,D.N.Develop-Spring-Festival-Issue " />
+<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachtgeistW&layout=compact&exclude_repo=D.N.Develop-Special-Event,D.N.Develop-Spring-Festival-Issue&hide_border=true" />
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
