@@ -39,6 +39,7 @@
 - Recently learning **algorithm and Unity3D** again
 - Currently working on [**OI Wiki**](https://github.com/OI-wiki/OI-wiki/) format
 
+
 <!--
 ### Languages, Tools and Platforms
 ![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff) ![C#](https://img.shields.io/badge/-C%23-%23239120?style=flat&logo=C-Sharp) ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=3776AB) [![Kotlin](https://img.shields.io/badge/-Kotlin-blueviolet?style=flat&logo=Kotlin&logoColor=ff722c)](https://kotlinlang.org/)
@@ -47,10 +48,6 @@
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github)](https://github.com/NachtgeistW) [![sb2](https://img.shields.io/badge/-Surface_Book_2-grey?style=flat&logo=microsoft)](https://www.microsoftstore.com.cn/surface/surface-book-2/p/mic2606)
 -->
-
-<img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachtgeistW&layout=compact&exclude_repo=D.N.Develop-Special-Event,D.N.Develop-Spring-Festival-Issue&hide_border=true" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=NachtgeistW&show_icons=true&hide_border=true"/>
 
 ---
 
@@ -64,6 +61,10 @@ CMake    16 mins         ▒░░░░░░░░░░░░░░░░░�
 Other    12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 ```
 <!--END_SECTION:waka-->
+
+<img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachtgeistW&layout=compact&exclude_repo=D.N.Develop-Special-Event,D.N.Develop-Spring-Festival-Issue&hide_border=true" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=NachtgeistW&show_icons=true&hide_border=true"/>
 
 <!--
 ref: 
