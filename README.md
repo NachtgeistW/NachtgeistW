@@ -31,6 +31,8 @@
 </p>
  -->
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=NachtgeistW&show_icons=true&hide_border=true"/>
+
 ### About Me
 
 - A senior undergraduate from China Mainland
@@ -62,9 +64,8 @@ Other    12 mins         ▒░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-<img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachtgeistW&layout=compact&exclude_repo=D.N.Develop-Special-Event,D.N.Develop-Spring-Festival-Issue&hide_border=true" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=NachtgeistW&show_icons=true&hide_border=true"/>
+<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachtgeistW&layout=compact&exclude_repo=D.N.Develop-Special-Event,D.N.Develop-Spring-Festival-Issue&hide_border=true" />
 
 <!--
 ref: 
