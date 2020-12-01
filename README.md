@@ -51,7 +51,7 @@
 -->
 
 ---
-<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachtgeistW&layout=compact&exclude_repo=D.N.Develop-Special-Event,D.N.Develop-Spring-Festival-Issue&hide_border=true" />
+<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachtgeistW&layout=compact&exclude_repo=D.N.Develop-Special-Event,D.N.Develop-Spring-Festival-Issue,Recommendsys&hide_border=true" />
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
