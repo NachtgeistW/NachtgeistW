@@ -57,8 +57,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-JSON    16 mins         ██████████████████████▓░░   90.78 % 
-Other   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
