@@ -57,7 +57,8 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+unity   2 hrs           ██████████████████▓░░░░░░   75.06 % 
+C#      40 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.94 % 
 ```
 <!--END_SECTION:waka-->
 
