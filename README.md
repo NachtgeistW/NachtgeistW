@@ -57,8 +57,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Markdown   1 hr 56 mins    ███████████████████▓░░░░░   79.21 % 
-C++        30 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.77 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
