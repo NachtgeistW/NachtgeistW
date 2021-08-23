@@ -15,13 +15,13 @@
 </p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=NachtgeistW&show_icons=true&hide_border=true"/>
-  <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachtgeistW&layout=compact&exclude_repo=D.N.Develop-Special-Event,D.N.Develop-Spring-Festival-Issue,Recommendsys&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NachtgeistW&show_icons=true&hide_border=true"/>
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachtgeistW&layout=compact&exclude_repo=D.N.Develop-Special-Event,D.N.Develop-Spring-Festival-Issue,Recommendsys&hide_border=true" />
 </p>
 
 ### About Me
 
-- A senior undergraduate from China Mainland.
+- A postgraduate from China Mainland, ready to study in Newcastle University.
 - **C++ and C#** lover.
 - MUG player, Rayark and BEMANI fan.
 - Recently learning **algorithm and Unity3D** again.
