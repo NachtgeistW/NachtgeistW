@@ -32,7 +32,8 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   3 hrs 39 mins   ████████████████████████░   96.39 % 
+Other      7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 ```
 <!--END_SECTION:waka-->
 
