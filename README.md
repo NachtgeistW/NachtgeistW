@@ -21,7 +21,7 @@
 
 ### About Me
 
-- A postgraduate from China Mainland, ready to study in Newcastle University.
+- A postgraduate from China Mainland, studying in Newcastle University.
 - **C++ and C#** lover.
 - MUG player, Rayark and BEMANI fan.
 - Recently learning **algorithm and Unity3D** again.
@@ -40,6 +40,9 @@ No Activity tracked this Week
 ref: 
 https://github.com/xiaoluoboding/xiaoluoboding
 https://github.com/hritik5102/hritik5102
+
+plug-in:
+https://github.com/anuraghazra/github-readme-stats
 -->
 
 <!--
