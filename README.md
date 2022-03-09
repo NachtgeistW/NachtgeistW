@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NachtgeistW&show_icons=true&hide_border=true"/>
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachtgeistW&layout=compact&exclude_repo=D.N.Develop-Special-Event,D.N.Develop-Spring-Festival-Issue,Recommendsys&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NachtgeistW&show_icons=true&hide_border=true#gh-light-mode-only"/>
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachtgeistW&layout=compact&exclude_repo=D.N.Develop-Special-Event,D.N.Develop-Spring-Festival-Issue,Recommendsys&hide_border=true#gh-light-mode-only" />
 </p>
 
 ### About Me
