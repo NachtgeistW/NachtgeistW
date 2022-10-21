@@ -33,11 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   2 hrs 2 mins    ██████████████████████▒░░   88.99 %
-YAML       9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-CSS        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-SCSS       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Ruby       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
