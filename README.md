@@ -33,8 +33,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   2 hrs 40 mins   █████████████▒░░░░░░░░░░░   53.49 %
-C#         2 hrs 19 mins   ███████████▓░░░░░░░░░░░░░   46.51 %
+Markdown   2 hrs 40 mins   ████████████▓░░░░░░░░░░░░   50.64 %
+C#         2 hrs 36 mins   ████████████▒░░░░░░░░░░░░   49.36 %
 ```
 
 <!--END_SECTION:waka-->
