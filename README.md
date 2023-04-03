@@ -33,9 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TeX        1 hr 35 mins    ████████████████████▓░░░░   82.56 %
-C#         11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-Markdown   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
