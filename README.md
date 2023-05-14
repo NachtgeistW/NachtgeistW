@@ -21,7 +21,6 @@
 
 ### About Me
 
-- A postgraduate from China Mainland, studying in Newcastle University.
 - **C++ and C#** lover.
 - MUG player, Rayark and BEMANI fan.
 - Recently learning **algorithm and Unity3D** again.
