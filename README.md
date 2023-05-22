@@ -32,7 +32,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   2 hrs 7 mins    █████████████████████████   100.00 %
+Markdown   2 hrs 7 mins    ██████████████████████▒░░   89.94 %
+C#         14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
 ```
 
 <!--END_SECTION:waka-->
