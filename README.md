@@ -32,8 +32,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#           1 hr 54 mins    ███████████████████████▒░   92.68 %
-PowerShell   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+C#           2 hrs 33 mins   ███████████████████████▓░   94.43 %
+PowerShell   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
 ```
 
 <!--END_SECTION:waka-->
