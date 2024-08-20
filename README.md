@@ -3,15 +3,8 @@
   <a href="https://nachtgeistw.github.io/Berksey/">
     Blog · 
   </a>
-  <a href="https://twitter.com/Nightwheel_C">
-  Twitter · 
-  </a>
-  <a href="https://weibo.com/7312904644/profile?rightmod=1&wvr=6&mod=personnumber&is_new=1">
-  Weibo · 
-  </a>
-  <a href="https://t.me/Nightwheel">
-  Telegram
-  </a>
+  <a href="https://twitter.com/NachtgeistW">
+  Twitter
 </p>
 
 <p align="center">
