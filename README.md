@@ -25,11 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#                  46 mins         █████████████████████░░░░   83.85 %
-XML                 6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
-Tscn file           1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-GitIgnore file      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-GodotProject file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
