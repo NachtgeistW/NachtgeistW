@@ -25,7 +25,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#          48 mins         █████████████████████████   99.87 %
+UnityYaml   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Csproj      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
