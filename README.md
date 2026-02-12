@@ -25,8 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-INI     11 mins         █████████████████████████   99.34 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
