@@ -25,11 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#               4 hrs 1 min           ██████████████████▒░░░░░░   73.38 %
-Markdown         38 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
-UnityYaml        17 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-Text             8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Unity3D Asset    6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
