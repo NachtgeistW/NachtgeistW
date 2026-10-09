@@ -25,7 +25,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#              0 secs                ██████████████████████▒░░   88.77 %
+Markdown        0 secs                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
+Unity3D Asset   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
